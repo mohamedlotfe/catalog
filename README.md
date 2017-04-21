@@ -12,5 +12,7 @@ You will learn how to develop a RESTful web application using the Python framewo
 1-Install Vagrant and VirtualBox<br>
 2-Clone the fullstack-nanodegree-vm<br>
 3-Launch the Vagrant VM (vagrant up)<br>
+4-Run your application within the VM (python /vagrant/Project5/database_setup.py)<br>
+5-Run your application within the VM (python /vagrant/Project5/lotsofmenus.py)<br>
 4-Run your application within the VM (python /vagrant/Project5/finalproject.py)<br>
 5-Access and test your application by visiting http://localhost:5000 locally<br>
